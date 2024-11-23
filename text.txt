@@ -86,7 +86,7 @@
         </ul>
         <div class="cta">
             <h2>Ready to Start?</h2>
-            <a href="YOUR_REFERRAL_LINK" target="_blank">Join Rollercoin Now!</a>
+            <a href="https://rollercoin.com/?r=kys45jwc" target="_blank">Join Rollercoin Now!</a>
         </div>
     </section>
     <footer>
